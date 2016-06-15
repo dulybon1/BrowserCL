@@ -3,3 +3,7 @@
 
 #ignore node modules
 node_modules/**/*
+
+#ignore public folder
+public/**/*
+!public/js/clearCommand.js
